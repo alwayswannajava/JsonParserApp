@@ -1,0 +1,23 @@
+[
+  {
+    "student_id": 3,
+    "group_id": "103",
+    "courses": "Biology, Chemistry, Geography",
+    "first_name": "Michael",
+    "last_name": "Johnson"
+  },
+  {
+    "student_id": 4,
+    "group_id": "104",
+    "courses": "Computer Science, Literature, Music",
+    "first_name": "Emily",
+    "last_name": "Williams"
+  },
+  {
+    "student_id": 5,
+    "group_id": "105",
+    "courses": "Economics, Foreign Language, Physical Education",
+    "first_name": "James",
+    "last_name": "Brown"
+  }
+]

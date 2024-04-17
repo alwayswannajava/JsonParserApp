@@ -1,0 +1,16 @@
+[
+  {
+    "student_id": 1,
+    "group_id": "101",
+    "courses": "Math, Science, History",
+    "first_name": "John",
+    "last_name": "Doe"
+  },
+  {
+    "student_id": 2,
+    "group_id": "102",
+    "courses": "English, Physics, Art",
+    "first_name": "Jane",
+    "last_name": "Smith"
+  }
+]

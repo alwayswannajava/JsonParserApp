@@ -1,0 +1,352 @@
+[
+  {
+    "student_id": 51,
+    "group_id": "151",
+    "courses": "Math, Science, History",
+    "first_name": "Nathan",
+    "last_name": "Gonzalez"
+  },
+  {
+    "student_id": 52,
+    "group_id": "152",
+    "courses": "English, Physics, Art",
+    "first_name": "Samantha",
+    "last_name": "Wilson"
+  },
+  {
+    "student_id": 53,
+    "group_id": "153",
+    "courses": "Biology, Chemistry, Geography",
+    "first_name": "Logan",
+    "last_name": "Anderson"
+  },
+  {
+    "student_id": 54,
+    "group_id": "154",
+    "courses": "Computer Science, Literature, Music",
+    "first_name": "Ariana",
+    "last_name": "Taylor"
+  },
+  {
+    "student_id": 55,
+    "group_id": "155",
+    "courses": "Economics, Foreign Language, Physical Education",
+    "first_name": "Elijah",
+    "last_name": "Moore"
+  },
+  {
+    "student_id": 56,
+    "group_id": "156",
+    "courses": "Math, History, Art",
+    "first_name": "Mackenzie",
+    "last_name": "Jackson"
+  },
+  {
+    "student_id": 57,
+    "group_id": "157",
+    "courses": "Science, English, Geography",
+    "first_name": "Hailey",
+    "last_name": "Davis"
+  },
+  {
+    "student_id": 58,
+    "group_id": "158",
+    "courses": "Physics, Biology, Music",
+    "first_name": "Tyler",
+    "last_name": "Martinez"
+  },
+  {
+    "student_id": 59,
+    "group_id": "159",
+    "courses": "Chemistry, Computer Science, Physical Education",
+    "first_name": "Gianna",
+    "last_name": "Hernandez"
+  },
+  {
+    "student_id": 60,
+    "group_id": "160",
+    "courses": "Literature, Economics, Foreign Language",
+    "first_name": "Jacob",
+    "last_name": "Lopez"
+  },
+  {
+    "student_id": 61,
+    "group_id": "161",
+    "courses": "History, Math, Music",
+    "first_name": "Lily",
+    "last_name": "Gonzalez"
+  },
+  {
+    "student_id": 62,
+    "group_id": "162",
+    "courses": "Art, Science, Physical Education",
+    "first_name": "Anthony",
+    "last_name": "Wilson"
+  },
+  {
+    "student_id": 63,
+    "group_id": "163",
+    "courses": "English, Physics, Foreign Language",
+    "first_name": "Sophie",
+    "last_name": "Smith"
+  },
+  {
+    "student_id": 64,
+    "group_id": "164",
+    "courses": "Biology, Literature, Geography",
+    "first_name": "Noah",
+    "last_name": "Johnson"
+  },
+  {
+    "student_id": 65,
+    "group_id": "165",
+    "courses": "Chemistry, Economics, Computer Science",
+    "first_name": "Alyssa",
+    "last_name": "Williams"
+  },
+  {
+    "student_id": 66,
+    "group_id": "166",
+    "courses": "Music, History, Physical Education",
+    "first_name": "Eva",
+    "last_name": "Brown"
+  },
+  {
+    "student_id": 67,
+    "group_id": "167",
+    "courses": "Science, Art, Foreign Language",
+    "first_name": "Lucas",
+    "last_name": "Jones"
+  },
+  {
+    "student_id": 68,
+    "group_id": "168",
+    "courses": "English, Biology, Geography",
+    "first_name": "Aubrey",
+    "last_name": "Davis"
+  },
+  {
+    "student_id": 69,
+    "group_id": "169",
+    "courses": "Physics, Chemistry, Computer Science",
+    "first_name": "Christian",
+    "last_name": "Martinez"
+  },
+  {
+    "student_id": 70,
+    "group_id": "170",
+    "courses": "Literature, Economics, Music",
+    "first_name": "Sofia",
+    "last_name": "Hernandez"
+  },
+  {
+    "student_id": 71,
+    "group_id": "171",
+    "courses": "History, Art, Physical Education",
+    "first_name": "Gavin",
+    "last_name": "Lopez"
+  },
+  {
+    "student_id": 72,
+    "group_id": "172",
+    "courses": "Science, English, Foreign Language",
+    "first_name": "Madeline",
+    "last_name": "Garcia"
+  },
+  {
+    "student_id": 73,
+    "group_id": "173",
+    "courses": "Biology, Physics, Geography",
+    "first_name": "Xavier",
+    "last_name": "Thompson"
+  },
+  {
+    "student_id": 74,
+    "group_id": "174",
+    "courses": "Chemistry, Literature, Computer Science",
+    "first_name": "Brooklyn",
+    "last_name": "Anderson"
+  },
+  {
+    "student_id": 75,
+    "group_id": "175",
+    "courses": "Music, History, Economics",
+    "first_name": "Austin",
+    "last_name": "Taylor"
+  },
+  {
+    "student_id": 76,
+    "group_id": "176",
+    "courses": "Art, Science, Physical Education",
+    "first_name": "Peyton",
+    "last_name": "Moore"
+  },
+  {
+    "student_id": 77,
+    "group_id": "177",
+    "courses": "English, Physics, Foreign Language",
+    "first_name": "Kylie",
+    "last_name": "Jackson"
+  },
+  {
+    "student_id": 78,
+    "group_id": "178",
+    "courses": "Biology, Chemistry, Geography",
+    "first_name": "Cooper",
+    "last_name": "Martinez"
+  },
+  {
+    "student_id": 79,
+    "group_id": "179",
+    "courses": "Computer Science, Literature, Music",
+    "first_name": "Layla",
+    "last_name": "Hernandez"
+  },
+  {
+    "student_id": 80,
+    "group_id": "180",
+    "courses": "Economics, Science, Physical Education",
+    "first_name": "Hudson",
+    "last_name": "Lopez"
+  },
+  {
+    "student_id": 81,
+    "group_id": "181",
+    "courses": "History, Math, Music",
+    "first_name": "Gabriella",
+    "last_name": "Gonzalez"
+  },
+  {
+    "student_id": 82,
+    "group_id": "182",
+    "courses": "Art, Science, Foreign Language",
+    "first_name": "Blake",
+    "last_name": "Wilson"
+  },
+  {
+    "student_id": 83,
+    "group_id": "183",
+    "courses": "English, Biology, Geography",
+    "first_name": "Violet",
+    "last_name": "Smith"
+  },
+  {
+    "student_id": 84,
+    "group_id": "184",
+    "courses": "Physics, Chemistry, Computer Science",
+    "first_name": "Jason",
+    "last_name": "Johnson"
+  },
+  {
+    "student_id": 85,
+    "group_id": "185",
+    "courses": "Literature, Economics, Music",
+    "first_name": "Eleanor",
+    "last_name": "Williams"
+  },
+  {
+    "student_id": 86,
+    "group_id": "186",
+    "courses": "History, Art, Physical Education",
+    "first_name": "Hunter",
+    "last_name": "Brown"
+  },
+  {
+    "student_id": 87,
+    "group_id": "187",
+    "courses": "Science, English, Foreign Language",
+    "first_name": "Mason",
+    "last_name": "Jones"
+  },
+  {
+    "student_id": 88,
+    "group_id": "188",
+    "courses": "Biology, Physics, Geography",
+    "first_name": "Leila",
+    "last_name": "Davis"
+  },
+  {
+    "student_id": 89,
+    "group_id": "189",
+    "courses": "Chemistry, Literature, Computer Science",
+    "first_name": "Connor",
+    "last_name": "Martinez"
+  },
+  {
+    "student_id": 90,
+    "group_id": "190",
+    "courses": "Music, History, Economics",
+    "first_name": "Katherine",
+    "last_name": "Hernandez"
+  },
+  {
+    "student_id": 91,
+    "group_id": "191",
+    "courses": "Art, Science, Physical Education",
+    "first_name": "Tristan",
+    "last_name": "Lopez"
+  },
+  {
+    "student_id": 92,
+    "group_id": "192",
+    "courses": "English, Physics, Foreign Language",
+    "first_name": "Maya",
+    "last_name": "Garcia"
+  },
+  {
+    "student_id": 93,
+    "group_id": "193",
+    "courses": "Biology, Chemistry, Geography",
+    "first_name": "Brayden",
+    "last_name": "Thompson"
+  },
+  {
+    "student_id": 94,
+    "group_id": "194",
+    "courses": "Computer Science, Literature, Music",
+    "first_name": "Savannah",
+    "last_name": "Anderson"
+  },
+  {
+    "student_id": 95,
+    "group_id": "195",
+    "courses": "Economics, Science, Physical Education",
+    "first_name": "Xander",
+    "last_name": "Taylor"
+  },
+  {
+    "student_id": 96,
+    "group_id": "196",
+    "courses": "History, Math, Music",
+    "first_name": "Arianna",
+    "last_name": "Moore"
+  },
+  {
+    "student_id": 97,
+    "group_id": "197",
+    "courses": "Art, Science, Foreign Language",
+    "first_name": "Ayden",
+    "last_name": "Jackson"
+  },
+  {
+    "student_id": 98,
+    "group_id": "198",
+    "courses": "English, Biology, Geography",
+    "first_name": "Kaitlyn",
+    "last_name": "Martinez"
+  },
+  {
+    "student_id": 99,
+    "group_id": "199",
+    "courses": "Physics, Chemistry, Computer Science",
+    "first_name": "Dominic",
+    "last_name": "Hernandez"
+  },
+  {
+    "student_id": 100,
+    "group_id": "200",
+    "courses": "Literature, Economics, Music",
+    "first_name": "Molly",
+    "last_name": "Lopez"
+  }
+]
